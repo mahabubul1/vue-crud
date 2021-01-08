@@ -1,4 +1,4 @@
-# hello-world
+# Vue Crud
 
 ## Project setup
 ```
