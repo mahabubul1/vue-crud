@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
+
+![alt text](https://github.com/mahabubul1/vue-crud/blob/master/demo.jpg?raw=true)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
